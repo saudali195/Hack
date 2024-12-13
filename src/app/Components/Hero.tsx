@@ -56,7 +56,7 @@ const HeroSection = () => {
           <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6 mt-8">
             {/* Product Card 1 */}
             <div className="bg-white p-4 rounded-lg shadow-md hover:shadow-lg transition duration-300">
-              <img src="/image.png" alt="Luxury Steel Chair" className="w-full h-312 w-312 object-cover rounded-lg" />
+              <img src="/image.png" alt="Luxury Steel Chair" className="w-full h-312 w-312 object-cover rounded-lg" ></img>
               <div className="mt-4 text-center">
                 <h3 className="text-lg font-semibold text-[#272343]">Luxury Stool Chair</h3>
                 <p className="text-teal-600 mt-2">$20</p>
